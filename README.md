@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Frey</h1>
 <h3 align="center">Programador y Baterista</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFpcmh0YXZyb3ZndDJzenY5dzg5MXM1NTBpYWNveDZsNTcwanR4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y3M1lEO982asvJCTkn/giphy.gif">
-
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/O0crlwCuNcVQk/200w.gif?cid=6c09b952kiz14lgyuo7l0wvb6e3woefd8rgknhc1fz8z35x5&ep=v1_gifs_search&rid=200w.gif&ct=g">
 - 🌱 I’m currently learning **C# .NET**
 
 - 💬 Ask me about **React**
