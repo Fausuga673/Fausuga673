@@ -4,5 +4,5 @@
 
 <h3 align="left">Competencias</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,csharp,python,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,c,python,php" />
 </p>
